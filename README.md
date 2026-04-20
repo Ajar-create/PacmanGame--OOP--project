@@ -3,6 +3,7 @@
  Description:
 This is a simple console-based Pacman game developed in Java using Object-Oriented Programming concepts.
 The player moves inside a grid to collect food while avoiding the ghost.
+
  Concepts Used:
 . Classes and Objects
 . Constructors
@@ -31,4 +32,5 @@ The player moves inside a grid to collect food while avoiding the ghost.
 3. Run "PacmanGame.java"
 
 👤 Author
+
 Ajar Shahzad
